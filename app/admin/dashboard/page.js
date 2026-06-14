@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { supabase } from "@/lib/supabase";
 import WelcomeToast from "@/components/WelcomeToast";
 import AdminNavbar from "@/components/AdminNavbar";

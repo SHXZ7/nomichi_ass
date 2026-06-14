@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { supabase } from "@/lib/supabase";
 import StatusSelector from "@/components/StatusSelector";
 import OwnerSelector from "@/components/OwnerSelector";
